@@ -1,4 +1,4 @@
-# Python-Projects
+# Python Projects
 - Repo of various Python Scripts
 
 ## [HTMLsnake.py](https://github.com/BushidoUK/Python-Projects/blob/main/HTMLsnake.py)
