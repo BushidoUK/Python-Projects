@@ -1,7 +1,7 @@
 # Python Projects for CTI
 - Repo of my various Python Scripts that can be used for CTI
 
-#### Learning Resources
+#### Learning Resources & Inspiration
 - https://realpython.com/beautiful-soup-web-scraper-python/
 - https://medium.com/geekculture/web-scraping-tables-in-python-using-beautiful-soup-8bbc31c5803e
 
