@@ -12,3 +12,8 @@
 ## [HMTLviper.py](https://github.com/BushidoUK/Python-Projects/blob/main/HTMLviper.py)
 - Retrieves a specific HTML element by its ID
 - User provides `URL` and `Element_ID`
+
+## [ParseOpendir.py](https://github.com/BushidoUK/Python-Projects/blob/main/ParseOpendir.py)
+- Retrieves Table Data from HTML of Open Directory Sites
+- User provides `URL` and `CSV FileName`
+- User can use `-h` to learn how to use the script
