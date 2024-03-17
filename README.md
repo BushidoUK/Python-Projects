@@ -17,3 +17,14 @@
 - Retrieves Table Data from HTML of Open Directory Sites
 - User provides `URL` and `CSV FileName`
 - User can use `-h` to learn how to use the script
+
+## [VirusTotal IP Lookup.py](https://github.com/BushidoUK/Python-Projects/blob/main/vt_ip_lookup.py)
+- Retrieves the Reputation and Details of an IP address on VirusTotal via the API
+- User provides the `IP Address`
+- User provides the VirusTotal `API_KEY`
+
+## [VirusTotal IP Bulk Lookup.py](https://github.com/BushidoUK/Python-Projects/blob/main/vt_ip_bulk_lookup.py)
+- Retrieves the Reputation and Details of multiple IP addresses in bulk on VirusTotal via the API
+- User provides a `TXT file` of `IP Addresses`
+- User specifies the `CSV file` for the `Lookup Output`
+- User provides the VirusTotal `API_KEY`
