@@ -1,5 +1,5 @@
-# Python Projects
-- Repo of various Python Scripts
+# Python Projects for CTI
+- Repo of my various Python Scripts that can be used for CTI
 
 #### Learning Resources
 - https://realpython.com/beautiful-soup-web-scraper-python/
